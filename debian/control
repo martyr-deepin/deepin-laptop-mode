@@ -1,0 +1,15 @@
+Source: deepin-laptop-mode
+Section: utils
+Priority: optional
+Maintainer: deepin <packages@deepin.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.8
+Homepage: https://www.deepin.org
+#Vcs-Git: https://anonscm.debian.org/collab-maint/deepin-laptop-mode.git
+#Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/deepin-laptop-mode.git
+
+Package: deepin-laptop-mode
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
